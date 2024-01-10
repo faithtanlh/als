@@ -1,0 +1,5 @@
+DROP TABLE Fines;
+DROP TABLE Loans;
+DROP TABLE Reservations;
+DROP TABLE Books;
+DROP TABLE LibMembers;
